@@ -3,7 +3,7 @@
 cd $GOPATH/src/beegotest
 
 mkdir -p /data/log/
-mkdir goweb
+touch  goweb
 go build -o goweb
 
 ./goweb
