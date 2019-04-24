@@ -4,6 +4,6 @@ cd $GOPATH/src/beegotest
 
 mkdir -p /data/log/
 
-go build  goweb.go
+go build -o goweb
 
 ./goweb
