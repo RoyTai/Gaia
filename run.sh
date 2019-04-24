@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd $GOPATH/src/beegotest
+cd $GOPATH/src/golang/beegotest
 
 mkdir -p /data/log/
 touch  goweb
