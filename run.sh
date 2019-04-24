@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd $GOPATH/src/golang/beegotest
+cd $GOPATH/src/beegotest
 
 mkdir -p /data/log/
 
